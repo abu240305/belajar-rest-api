@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+MATERI_AJAR_REST_API_NEXTJS.md
+TAHAP_PEMBUATAN_REST_API.md
